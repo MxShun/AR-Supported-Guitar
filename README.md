@@ -10,7 +10,9 @@ Users play the guitar with [Hololens](https://www.microsoft.com/en-us/hololens) 
 ![demo](https://github.com/MxShun/AR-supported-guitar/blob/master/demo/demo.gif "Demo")
 
 00:00-00:10 *C code* proper model and positions are displayed, play it correctly.
+
 00:10-00:20 Advices are shown 'cause of played incorrectly.
+
 00:20-00:33 Correctly again, then switched to *E code* thanks to red indicator become full.
 
 
