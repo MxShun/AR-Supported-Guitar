@@ -5,8 +5,14 @@ AR(*Augmented Reality*) is an interactive experience of a real-world environment
 
 Users play the guitar with [Hololens](https://www.microsoft.com/en-us/hololens) that displays some support information; (1)proper 3D hand models, (2)positions that must be held with hingers, (3)a mirror of the guitar neck tracked based on structural features and (4)evaluations and advices considering frequency features.
 
+
 ## Demo
 ![demo](https://github.com/MxShun/AR-supported-guitar/blob/master/demo/demo.gif "Demo")
+
+00:00-00:10 *C code* proper model and positions are displayed, play it correctly.
+00:10-00:20 Advices are shown 'cause of played incorrectly.
+00:20-00:33 Correctly again, then switched to *E code* thanks to red indicator become full.
+
 
 ## Requirement
 Note my environment details.
@@ -16,6 +22,7 @@ Note my environment details.
 - Holographic Remoting (for remoting to HMD)
 - Visual Studio 2017 v15.6.7 (sub frame; for building to UWP)
 - opencv3.4.4 (C++ native)
+
 
 ### Hardware
 - Computer: HP Probook 470 G5(Intel Core i7-8550U, 8GB RAM, NVIDEO GeForce 930MX)
