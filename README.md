@@ -1,5 +1,5 @@
 # AR-supported guitar
-[![release](https://img.shields.io/badge/release-v1.3-blue)](https://github.com/MxShun/AR-supported-guitar/releases)
+[![release](https://img.shields.io/badge/release-v1.1-blue)](https://github.com/MxShun/AR-supported-guitar/releases)
 
 AR(*Augmented Reality*) is an interactive experience of a real-world environment where the objects that reside in the real world are enhanced by computer-generated perceptual information, sometimes across multiple sensory modalities, including visual, auditory, haptic, somatosensory and olfactory.
 
